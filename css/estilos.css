@@ -42,8 +42,12 @@ body
 {
     padding: 1em;
 }
-#cabecera #logo
+#footer
 {
-    width:20px;
-    vertical-align:middle
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+    color: #33A;
+    text-align: center;
+    border: 1px solid #DDD;
 }
