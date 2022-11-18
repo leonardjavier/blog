@@ -8,5 +8,6 @@ he agreagado esta linea como desarrollador remoto
 en esto solo puedo agregar que soy un colaborador extra.
 
 master 1
-
+master 2
 ultimos cambios realizados
+
