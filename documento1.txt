@@ -13,3 +13,4 @@ ultimos cambios realizados
 
 bug 1
 bug 2
+bug 3
