@@ -19,3 +19,5 @@ bug 4
 bug 5 
 bug 6
 
+bug 8
+bug 9
