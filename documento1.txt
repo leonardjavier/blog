@@ -12,3 +12,4 @@ master 2
 ultimos cambios realizados
 
 bug 1
+bug 2
