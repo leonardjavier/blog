@@ -5,4 +5,21 @@ freddy vega tiene 32 de edad y nacio en colombia. vivo aqui y alla
 
 he agreagado esta linea como desarrollador remoto 
 
+en esto solo puedo agregar que soy un colaborador extra.
+
+master 1
+master 2
 ultimos cambios realizados
+
+bug 1
+bug 2
+bug 3
+bug 4
+
+bug 5 
+bug 6
+
+bug 8
+bug 9
+bug 10
+
